@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.wavecrestwatersports.com",
-    "currentPage": "ScubaDiving.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,7 +45,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Home of Wavecrest Scuba, a cornish based dive and first aid company as well as a boat builders",
+        "meta_descr": "Home of Wavecrest Scuba, a cornish based scuba diving, HSE first aid training company and Rigid Inflatable boat builders",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -6486,7 +6486,7 @@
     },
     "EmergencyOxygenProvider.html": {
       "settings": {
-        "meta_descr": "PADI Drysuit Specialty, its all about staying warm",
+        "meta_descr": "PADI Emergency Oxygen Provider in Cornwall",
         "title": "Emergency Oxygen Provider",
         "order": 11
       },
@@ -10078,7 +10078,7 @@
     },
     "DiveAgainstDebrisDiverr.html": {
       "settings": {
-        "meta_descr": "Aware dive against debris, learn how to care for your underwater enviroment",
+        "meta_descr": "Aware dive against debris, learn how to care for your underwater enviroment in Conrwall",
         "title": "AWARE Dive Against Debris",
         "order": 19
       },
@@ -11874,7 +11874,7 @@
     },
     "AdvancedOpenWater.html": {
       "settings": {
-        "meta_descr": "PADI Rescue Diver, learn to take comand and become a better buddy",
+        "meta_descr": "PADI Advanced Open Water, take the next step in Cornwall",
         "title": "Advanced Open Water",
         "order": 23
       },
@@ -12323,7 +12323,7 @@
     },
     "FirstAidatWork.html": {
       "settings": {
-        "meta_descr": "HSE First Aid at Work",
+        "meta_descr": "HSE First Aid at Work in Cornwall",
         "title": "HSE Emergency First Aid at Work",
         "order": 24
       },
@@ -12772,7 +12772,7 @@
     },
     "HSEFAaW.html": {
       "settings": {
-        "meta_descr": "HSE First Aid at Work 3 day course",
+        "meta_descr": "HSE First Aid at Work 3 day course in Conrwall",
         "title": "HSE First Aid at Work",
         "order": 25
       },
@@ -13221,7 +13221,7 @@
     },
     "FirstAid.html": {
       "settings": {
-        "meta_descr": "Emergency First Response first Aid",
+        "meta_descr": "Emergency First Response first Aid in Cornwall",
         "title": "First Aid",
         "order": 26
       },
@@ -14119,7 +14119,7 @@
     },
     "HSECourses.html": {
       "settings": {
-        "meta_descr": "HSE First Aid at Work",
+        "meta_descr": "HSE First Aid at Work in Conrwall",
         "title": "HSE First Aid at Work Courses",
         "order": 29
       },
@@ -15017,7 +15017,7 @@
     },
     "FirstAidCourses.html": {
       "settings": {
-        "meta_descr": "First Aid at Work and First Aid",
+        "meta_descr": "First Aid at Work and First Aid in Cornwall",
         "title": "First Aid Courses",
         "order": 31
       },
@@ -16008,7 +16008,7 @@
     },
     "OpenWater.html": {
       "settings": {
-        "meta_descr": "PADI Open Water, yor first step into a new adventure",
+        "meta_descr": "PADI Open Water, yor first step into a new adventure, get your PADI in Cornwall",
         "title": "Open Water",
         "order": 34
       },
@@ -16906,7 +16906,7 @@
     },
     "TechSidemount.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "PADI Tech Sidemount",
         "title": "Tech Sidmount",
         "order": 36
       },
@@ -17355,7 +17355,7 @@
     },
     "Tech40.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "PADI Tech 40",
         "title": "Tech 40",
         "order": 37
       },
@@ -17804,7 +17804,7 @@
     },
     "Tech45.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "PADI Tech 45",
         "title": "Tech 45",
         "order": 38
       },
@@ -18253,7 +18253,7 @@
     },
     "Tech50.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "PADI TecRec tech 50 course",
         "title": "Tech 50",
         "order": 39
       },
@@ -18702,7 +18702,7 @@
     },
     "TechTrimix.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "PADI TecRec Trimix, let us take you to new depths",
         "title": "Tech Trimix",
         "order": 40
       },
@@ -19151,7 +19151,7 @@
     },
     "Divemaster.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "PADI Divemaster in Cornwall",
         "title": "Divemaster",
         "order": 41
       },
@@ -19600,7 +19600,7 @@
     },
     "PADIPro.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "PADI Divemaster, become one of the next generation and teach what you love",
         "title": "PADI Pro",
         "order": 42
       },
@@ -20049,7 +20049,7 @@
     },
     "DiscoverScuba.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "PADI discover scuba,  come and experience the fun",
         "title": "Discover Scuba",
         "order": 43
       },
@@ -20498,7 +20498,7 @@
     },
     "IntroCourses.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "PADI beginner courses, get your padi in Cornwall",
         "title": "Introductory Courses",
         "order": 44
       },
@@ -20995,7 +20995,7 @@
     },
     "AdvancedCourses.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "PADI Continuing education courses",
         "title": "Advanced Courses",
         "order": 45
       },
@@ -21492,7 +21492,7 @@
     },
     "DivingCourses.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "Scuba diving in cornwall has never been as much fun",
         "title": "Diving Courses",
         "order": 46
       },
@@ -22016,7 +22016,7 @@
     },
     "ScubaDiving.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Come scuba diving in Cornwall with us",
         "title": "Scuba Diving",
         "order": 47
       },
@@ -22465,7 +22465,7 @@
     },
     "MoreAboutBoats.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "Wavecrest Watersports are crating stunning 6 meter rigid inflatable boats",
         "title": "More about our Boats",
         "order": 48
       },
