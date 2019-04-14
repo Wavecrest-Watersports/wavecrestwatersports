@@ -2075,6 +2075,18 @@ body {
 .cid-rkZVeCzXCI .content-slider-wrap {
   width: 60%;
 }
+.cid-rnCz2GIgI7 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #7fdbfd, #0f7699);
+}
+.cid-rnCz2GIgI7 .mbr-iconfont-social {
+  font-size: 32px;
+  color: #232323;
+}
+.cid-rnCz2GIgI7 .social-list a:focus {
+  text-decoration: none;
+}
 .cid-rkZQtr1EtW .navbar {
   padding: .5rem 0;
   background: #333333;
