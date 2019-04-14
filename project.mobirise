@@ -38,7 +38,12 @@
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "",
+    "siteUrl": "http://www.wavecrestwatersports.com",
+    "sitemapSwitcherAuto": "on",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -974,7 +979,7 @@
       "settings": {
         "meta_descr": "The PADI Master Scuba DIver, the blackbelt of scuba diving",
         "title": "Master Scuba Diver",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1423,7 +1428,7 @@
       "settings": {
         "meta_descr": "Emergency First Response first Aid Instructor",
         "title": "Emergency First Response Instructor",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -1872,7 +1877,7 @@
       "settings": {
         "meta_descr": "PADI Specialties",
         "title": "Specialties",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -2433,7 +2438,7 @@
       "settings": {
         "meta_descr": "Please feel free to contact Wavecrest Watersports",
         "title": "Contact Us",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2896,7 +2901,7 @@
       "settings": {
         "meta_descr": "PADI Deep Diver course, dare you go beyond 30?",
         "title": "Deep Diver",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3345,7 +3350,7 @@
       "settings": {
         "meta_descr": "PADI Sidemount Diver, dare you split the twins?",
         "title": "Sidmount Diver",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3794,7 +3799,7 @@
       "settings": {
         "meta_descr": "Aware Fish ID, can you tell you plaice from your place?",
         "title": "Fish ID",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -4243,7 +4248,7 @@
       "settings": {
         "meta_descr": "PADI Search and Recovery diver, never loose your favorite thing again",
         "title": "Search and Recovery",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -4692,7 +4697,7 @@
       "settings": {
         "meta_descr": "PADI NIght Diver, come and see the light and what goes on after dark",
         "title": "Night Diver",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -5141,7 +5146,7 @@
       "settings": {
         "meta_descr": "Diving around the coast can be a thrill so this course is for you",
         "title": "Coastal Diver",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -5590,7 +5595,7 @@
       "settings": {
         "meta_descr": "PADI Surface Marker Diver, learn what you have up top",
         "title": "DSMB Diver",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -6039,7 +6044,7 @@
       "settings": {
         "meta_descr": "PADI Drysuit Specialty, its all about staying war",
         "title": "Drysuit Diver",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -6488,7 +6493,7 @@
       "settings": {
         "meta_descr": "PADI Emergency Oxygen Provider in Cornwall",
         "title": "Emergency Oxygen Provider",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -6937,7 +6942,7 @@
       "settings": {
         "meta_descr": "PADI Equipment Specialist",
         "title": "Equipment Specialist",
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -7386,7 +7391,7 @@
       "settings": {
         "meta_descr": "Ocean Reef Full Face Mask diver, to joy of breathing through your nose",
         "title": "Ocean Reef",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -7835,7 +7840,7 @@
       "settings": {
         "meta_descr": "AWARE Peak Per",
         "title": "Peak Performance Buoyancy",
-        "order": 14
+        "order": 15
       },
       "components": [
         {
@@ -8284,7 +8289,7 @@
       "settings": {
         "meta_descr": "PADI Self Reliant Diver, the art of self control",
         "title": "Self-reliant Diver",
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -8733,7 +8738,7 @@
       "settings": {
         "meta_descr": "PADI Enriched Air (NITROX)",
         "title": "Enriched Air (NITROX)",
-        "order": 16
+        "order": 17
       },
       "components": [
         {
@@ -9182,7 +9187,7 @@
       "settings": {
         "meta_descr": "PADI Boat Diver",
         "title": "Boat Diver",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -9631,7 +9636,7 @@
       "settings": {
         "meta_descr": "PADI Wreck Diver, learn the techniques to penatrate a wreck, learn some histroy and become a metal head",
         "title": "Wreck Diver",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -10080,7 +10085,7 @@
       "settings": {
         "meta_descr": "Aware dive against debris, learn how to care for your underwater enviroment in Conrwall",
         "title": "AWARE Dive Against Debris",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -10529,7 +10534,7 @@
       "settings": {
         "meta_descr": "PADI Underwater Imaging, Capture the memories you will treasure forever",
         "title": "Underwater Imaging",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -10978,7 +10983,7 @@
       "settings": {
         "meta_descr": "PADI Underwater Navigation, its not all points of the compass",
         "title": "Underwater Navigation",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -11427,7 +11432,7 @@
       "settings": {
         "meta_descr": "PADI Rescue Diver, learn to take comand and become a better buddy",
         "title": "Rescue Diver",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -11876,7 +11881,7 @@
       "settings": {
         "meta_descr": "PADI Advanced Open Water, take the next step in Cornwall",
         "title": "Advanced Open Water",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -12325,7 +12330,7 @@
       "settings": {
         "meta_descr": "HSE First Aid at Work in Cornwall",
         "title": "HSE Emergency First Aid at Work",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -12774,7 +12779,7 @@
       "settings": {
         "meta_descr": "HSE First Aid at Work 3 day course in Conrwall",
         "title": "HSE First Aid at Work",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -13223,7 +13228,7 @@
       "settings": {
         "meta_descr": "Emergency First Response first Aid in Cornwall",
         "title": "First Aid",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -13672,7 +13677,7 @@
       "settings": {
         "meta_descr": "Emergency First Response first Aid pediatric",
         "title": "Pediatric First Aid",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
@@ -14121,7 +14126,7 @@
       "settings": {
         "meta_descr": "HSE First Aid at Work in Conrwall",
         "title": "HSE First Aid at Work Courses",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -14570,7 +14575,7 @@
       "settings": {
         "meta_descr": "Emergency First Response First Aid courses",
         "title": "Emergenct First Response Course",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -15019,7 +15024,7 @@
       "settings": {
         "meta_descr": "First Aid at Work and First Aid in Cornwall",
         "title": "First Aid Courses",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -15514,7 +15519,7 @@
       "settings": {
         "meta_descr": "PADI TecRec Courses, are you ready for the next challenge?",
         "title": "tech courses",
-        "order": 33
+        "order": 34
       },
       "components": [
         {
@@ -16010,7 +16015,7 @@
       "settings": {
         "meta_descr": "PADI Open Water, yor first step into a new adventure, get your PADI in Cornwall",
         "title": "Open Water",
-        "order": 34
+        "order": 35
       },
       "components": [
         {
@@ -16459,7 +16464,7 @@
       "settings": {
         "meta_descr": "PADI TecRec diving courses, the dark side of diving",
         "title": "Technical Diving",
-        "order": 35
+        "order": 36
       },
       "components": [
         {
@@ -16908,7 +16913,7 @@
       "settings": {
         "meta_descr": "PADI Tech Sidemount",
         "title": "Tech Sidmount",
-        "order": 36
+        "order": 37
       },
       "components": [
         {
@@ -17357,7 +17362,7 @@
       "settings": {
         "meta_descr": "PADI Tech 40",
         "title": "Tech 40",
-        "order": 37
+        "order": 38
       },
       "components": [
         {
@@ -17806,7 +17811,7 @@
       "settings": {
         "meta_descr": "PADI Tech 45",
         "title": "Tech 45",
-        "order": 38
+        "order": 39
       },
       "components": [
         {
@@ -18255,7 +18260,7 @@
       "settings": {
         "meta_descr": "PADI TecRec tech 50 course",
         "title": "Tech 50",
-        "order": 39
+        "order": 40
       },
       "components": [
         {
@@ -18704,7 +18709,7 @@
       "settings": {
         "meta_descr": "PADI TecRec Trimix, let us take you to new depths",
         "title": "Tech Trimix",
-        "order": 40
+        "order": 41
       },
       "components": [
         {
@@ -19153,7 +19158,7 @@
       "settings": {
         "meta_descr": "PADI Divemaster in Cornwall",
         "title": "Divemaster",
-        "order": 41
+        "order": 42
       },
       "components": [
         {
@@ -19602,7 +19607,7 @@
       "settings": {
         "meta_descr": "PADI Divemaster, become one of the next generation and teach what you love",
         "title": "PADI Pro",
-        "order": 42
+        "order": 43
       },
       "components": [
         {
@@ -20051,7 +20056,7 @@
       "settings": {
         "meta_descr": "PADI discover scuba,  come and experience the fun",
         "title": "Discover Scuba",
-        "order": 43
+        "order": 44
       },
       "components": [
         {
@@ -20500,7 +20505,7 @@
       "settings": {
         "meta_descr": "PADI beginner courses, get your padi in Cornwall",
         "title": "Introductory Courses",
-        "order": 44
+        "order": 45
       },
       "components": [
         {
@@ -20997,7 +21002,7 @@
       "settings": {
         "meta_descr": "PADI Continuing education courses",
         "title": "Advanced Courses",
-        "order": 45
+        "order": 46
       },
       "components": [
         {
@@ -21494,7 +21499,7 @@
       "settings": {
         "meta_descr": "Scuba diving in cornwall has never been as much fun",
         "title": "Diving Courses",
-        "order": 46
+        "order": 47
       },
       "components": [
         {
@@ -22018,7 +22023,7 @@
       "settings": {
         "meta_descr": "Come scuba diving in Cornwall with us",
         "title": "Scuba Diving",
-        "order": 47
+        "order": 48
       },
       "components": [
         {
@@ -22467,7 +22472,7 @@
       "settings": {
         "meta_descr": "Wavecrest Watersports are crating stunning 6 meter rigid inflatable boats",
         "title": "More about our Boats",
-        "order": 48
+        "order": 49
       },
       "components": [
         {
@@ -22916,7 +22921,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Boat Accesories",
-        "order": 49
+        "order": 50
       },
       "components": [
         {
@@ -23365,7 +23370,7 @@
       "settings": {
         "meta_descr": "Wavecrest the company",
         "title": "More about us",
-        "order": 50
+        "order": 51
       },
       "components": [
         {
@@ -23814,7 +23819,7 @@
       "settings": {
         "meta_descr": "Wavecrest Boat builders are creating fantastic boats for the diving and pleasure market",
         "title": "Boat Builders",
-        "order": 51
+        "order": 52
       },
       "components": [
         {
@@ -24272,7 +24277,7 @@
       "settings": {
         "meta_descr": "Wavecrest Boat builders are creating fantastic boats for the diving and pleasure market",
         "title": "Boat Building",
-        "order": 52
+        "order": 53
       },
       "components": [
         {
