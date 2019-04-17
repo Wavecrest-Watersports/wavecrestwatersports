@@ -96,9 +96,6 @@
 		<loc>http://www.wavecrestwatersports.com/EFRCourses.html</loc>
 	</url>
 	<url>
-		<loc>http://www.wavecrestwatersports.com/FirstAidCourses.html</loc>
-	</url>
-	<url>
 		<loc>http://www.wavecrestwatersports.com/TechCourses.html</loc>
 	</url>
 	<url>
@@ -141,21 +138,24 @@
 		<loc>http://www.wavecrestwatersports.com/DivingCourses.html</loc>
 	</url>
 	<url>
-		<loc>http://www.wavecrestwatersports.com/ScubaDiving.html</loc>
-	</url>
-	<url>
 		<loc>http://www.wavecrestwatersports.com/MoreAboutBoats.html</loc>
 	</url>
 	<url>
 		<loc>http://www.wavecrestwatersports.com/BoatAccesories.html</loc>
 	</url>
 	<url>
-		<loc>http://www.wavecrestwatersports.com/MoreAboutUs.html</loc>
-	</url>
-	<url>
 		<loc>http://www.wavecrestwatersports.com/BoatBuilders.html</loc>
 	</url>
 	<url>
+		<loc>http://www.wavecrestwatersports.com/ScubaDiving.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wavecrestwatersports.com/AboutUs.html</loc>
+	</url>
+	<url>
 		<loc>http://www.wavecrestwatersports.com/BoatBuilding.html</loc>
+	</url>
+	<url>
+		<loc>http://www.wavecrestwatersports.com/FirstAidCourses.html</loc>
 	</url>
 </urlset>
