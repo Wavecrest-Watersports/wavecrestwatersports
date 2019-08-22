@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://wavecrestwatersports.com/sitemap.xml
